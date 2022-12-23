@@ -1,7 +1,7 @@
 <?php
 	$db_host= "localhost";
-	$db_user= "mysql";
-	$db_pass= "program";
+	$db_user= "root";
+	$db_pass= "root";
 	$db_base= "bezopasnost";
 	$db_table = "content";
 
